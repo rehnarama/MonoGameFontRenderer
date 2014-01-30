@@ -1,10 +1,10 @@
 # What is it?
 MonoGameFontRenderer is exactly what it sounds like; a tool to render texts (fonts) in monogame (and XNA).
 
-It makes use of the lovely tool I found here: [http://www.nubik.com/SpriteFont/], which is required to generate the files for the font.
+It makes use of the lovely tool I found here: http://www.nubik.com/SpriteFont/ which is required to generate the files for the font.
 
 ## How do I use it?
-1. First go to [http://www.nubik.com/SpriteFont/] and download the SpriteFont generator tool.
+1. First go to http://www.nubik.com/SpriteFont/ and download the SpriteFont generator tool.
 2. Use the generator tool to cuztomize you font however you want.
 3. Generate the files by clicking "Export" on the export page. Make sure you generate the 'font metrics' file as well.
 4. Name both of the files, the image file and the xml (font metrics) file to the same name, excluding the file extension, and add them to your MonoGames project content.
